@@ -39,7 +39,7 @@ This repository contains the Verilog implementation of a computer architecture a
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mr-arashnm/Mano-s-machine.git
    cd CPU
    ```
 
